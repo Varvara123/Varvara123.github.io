@@ -1,0 +1,10 @@
+.photo{width: 100%}
+.text{font-family: cursive; color: #c94c4c}
+.text2{font-family:cursive;
+color: pink}
+.card-title{color: blue}
+.card {
+	margin-bottom: 10px;
+	padding: 10px;
+}
+body{background-color: #f4e1d2}
